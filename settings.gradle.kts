@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mvvm_c"
+rootProject.name = "uniconet"
 include(":app")
  
